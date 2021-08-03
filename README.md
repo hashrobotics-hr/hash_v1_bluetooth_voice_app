@@ -1,0 +1,1 @@
+# hash_v1_bluetooth_voice_app
